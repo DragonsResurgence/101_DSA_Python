@@ -172,3 +172,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+/.vs/101_DSA_Python/copilot-chat/f3e6991c/sessions
+/.vs/101_DSA_Python/CopilotIndices/17.13.439.2385
+/.vs/101_DSA_Python/CopilotIndices/17.13.439.2385/CodeChunks.db
+/.vs/101_DSA_Python/FileContentIndex
+*.wsuo
+/.vs/101_DSA_Python/v17/DocumentLayout.backup.json
+/.vs/101_DSA_Python/v17/DocumentLayout.json
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
